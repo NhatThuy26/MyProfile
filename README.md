@@ -13,6 +13,8 @@
   * Học và tên SV
   * MSSV
 * Ảnh minh họa UI theo đề bài:
+* ![Screenshot](https://github.com/NhatThuy26/MyProfile/blob/master/TongNhatThuy-089305006667.png?raw=true)
+
 * 
 
 
